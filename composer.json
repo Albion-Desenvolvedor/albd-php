@@ -1,0 +1,19 @@
+{
+    "name": "albd/sdk",
+    "type": "library",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Albion\\Desenvolvedor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Albion-Desenvolvedor",
+            "email": "github@albion-desenvolvedor.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
