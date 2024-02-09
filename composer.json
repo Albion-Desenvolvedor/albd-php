@@ -1,7 +1,7 @@
 {
     "name": "albd/albd-php",
     "type": "library",
-    "license": "MIT License",
+    "license": "AGPL-1.0-or-later",
     "autoload": {
         "psr-4": {
             "Albion\\Desenvolvedor\\": "src/"
