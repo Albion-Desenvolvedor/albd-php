@@ -1,6 +1,7 @@
 {
     "name": "albd/albd-php",
     "type": "library",
+    "license": "MIT License",
     "autoload": {
         "psr-4": {
             "Albion\\Desenvolvedor\\": "src/"
@@ -12,7 +13,5 @@
             "email": "github@albion-desenvolvedor.com.br"
         }
     ],
-    "require": {
-        "php": ">=7.0"
-    }
+    "require": {}
 }
