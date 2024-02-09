@@ -1,7 +1,6 @@
 {
-    "name": "albd/sdk",
+    "name": "albd/albd-php",
     "type": "library",
-    "license": "GPL",
     "autoload": {
         "psr-4": {
             "Albion\\Desenvolvedor\\": "src/"
